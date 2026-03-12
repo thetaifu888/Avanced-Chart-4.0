@@ -1,0 +1,5 @@
+{
+  "name": "Bitquery Advanced Charts",
+  "description": "A financial charting application using TradingView and Bitquery data.",
+  "requestFramePermissions": []
+}
